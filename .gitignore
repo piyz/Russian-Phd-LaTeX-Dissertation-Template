@@ -158,3 +158,9 @@ Thumbs.db
 # latexindent backups
 *.bak
 *.bak[0-9]
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
